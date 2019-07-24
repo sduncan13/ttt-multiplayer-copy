@@ -1,5 +1,5 @@
 variables:
-  serviceConnectionToAzure: AzureDevOps
+  serviceConnectionToAzure: SBAITSummit
   appName: nodejslinuxsba
 
 trigger:
